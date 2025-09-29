@@ -32,7 +32,9 @@ The Credit Card Complaints Dashboard is an interactive Tableau dashboard designe
 - What percentage of complaints were disputed by customers?
 
 ## Dashboard Preview
-- (Add your exported image here — e.g., Credit_card_complaints_dashboard.png
+- <a href="https://github.com/Sakshammehta1101/Credit-Card-Complaints-Dashboard/blob/main/Credit%20card%20complaints%20dashboard.twb">Credit_card_complaints_dashboard</a>
+- <img width="1050" height="600" alt="Credit card complaints dashboard" src="https://github.com/user-attachments/assets/b2063fac-9b8e-424b-ab26-e99d21cd9444" />
+
 
 ## Project Insights
 - The majority of complaints relate to billing disputes, interest charges, and fraud cases.
