@@ -11,11 +11,8 @@ The Credit Card Complaints Dashboard is an interactive Tableau dashboard designe
 - Provide actionable insights for improving customer experience.
 
 ## Dataset Used
-- Dataset Name: Credit Card Complaints Dataset (from CFPB / other source)
-
+- Dataset Name: <a href="https://github.com/Sakshammehta1101/Credit-Card-Complaints-Dashboard/blob/main/Credit%20Card%20Dashboard.xlsx">Credit Card Complaints.xlsx</a>
 - Dataset Fields: Complaint ID, Date Received, Company, Issue Type, Sub-Issue, State, Submission Method, Resolution Status, Customer Response, etc.
-
-- Dataset Size: Thousands of consumer complaint records.
 
 ## Questions (KPIs)
 - What is the total number of complaints?
